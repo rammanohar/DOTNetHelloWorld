@@ -6,7 +6,7 @@ namespace BlobQuickstartV12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome Program");
         }
     }
 }
